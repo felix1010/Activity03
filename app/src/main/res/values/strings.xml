@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Activity 03</string>
+    <string name="exit">EXIT</string>
+    <string name="about">ABOUT</string>
+</resources>
